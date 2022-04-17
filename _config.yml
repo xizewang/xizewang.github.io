@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xize Wang / Site Title"
+title                    : "Xize Wang's Personal Website"
 title_separator          : "-"
 name                     : &name "Xize Wang"
 description              : &description "personal description"
