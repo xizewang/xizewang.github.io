@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xize WANG is an assistant professor at the Department of Real Estate of National University of Singapore (NUS). He is also a faculty affiliate of the NUS Institute of Real Estate and Urban Studies (IREUS) and the NUS Centre for Family and Population Research (CFPR). 
+Dr. Xize WANG is an assistant professor at the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/) of National University of Singapore (NUS). He is also a faculty affiliate of the NUS Institute of Real Estate and Urban Studies (IREUS) and the NUS Centre for Family and Population Research (CFPR). 
 
 He works interdisciplinary in the fields of public policy, urban planning, public health and transport policy. His current work focus on (1) the impact of urban built environment on people’s mental health and well-being, as well as (2) how individuals and policy makers could best mitigate the negative health impacts of the incoming global challenges (e.g. climate change, and aging). 
 
