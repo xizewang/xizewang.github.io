@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ### About Me
 Dr. Xize WANG is an assistant professor at the NUS Department of Real Estate. He works interdisciplinary in the fields of public policy, urban planning, public health and transport policy. His current work focus on (1) the impact of urban built environment on people’s health and well-being, as well as (2) how individuals and policy makers could best respond to the challenges of climate change and demographic shifts.
 
