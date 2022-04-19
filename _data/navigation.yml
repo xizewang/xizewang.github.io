@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "Home/主页"
     url: /about/
     
-  - title: "Publications"
+  - title: "Publications/研究"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Teaching/教学"
     url: /teaching/    
     
  # - title: "Portfolio"
