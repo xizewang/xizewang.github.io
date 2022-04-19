@@ -9,16 +9,17 @@ main:
   - title: "Teaching/教学"
     url: /teaching/    
     
+  - title: "CV/简历"
+    url: /cv/
+    
+  - title: "Contact/联系"
+    url: /contact/
+    
  # - title: "Portfolio"
  #   url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
-    
- # - title: "CV"
- #  url: /cv/
-    
-
     
  # - title: "Talks"
  #   url: /talks/    
