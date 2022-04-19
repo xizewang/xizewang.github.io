@@ -3,8 +3,8 @@ main:
   - title: "Home/主页"
     url: /about/
     
-  - title: "Publications/研究"
-    url: /publications/
+  - title: "Research/研究"
+    url: /research/
 
   - title: "Teaching/教学"
     url: /teaching/    
