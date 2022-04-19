@@ -4,7 +4,7 @@ main:
     url: /about/
     
   - title: "Research/研究"
-    url: /research/
+    url: /publications/
 
   - title: "Teaching/教学"
     url: /teaching/    
