@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xize Wang's Personal Website"
 title_separator          : "-"
 name                     : &name "Xize Wang"
-description              : &description "personal description"
+description              : &description # "personal description"
 url                      : https://xizewang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xizewang/xizewang.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Xize Wang (王锡泽)"
   avatar           : "Profile_Image.jpg"
   bio              : "Assistant Professor, &nbsp; Department of Real Estate, &nbsp; National University of Singapore"
-  location         : "Singapore"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=25k04X0AAAAJ&hl=en"
