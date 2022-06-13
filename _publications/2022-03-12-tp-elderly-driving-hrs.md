@@ -1,14 +1,15 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2022-03-12-tp-elderly-driving-hrs
+excerpt: 'HRS data shows that health conditions predicts older adults' mobility reducitions'
+date: 2022-03-12
+venue: 'Transport Policy'
+paperurl: 'https://doi.org/10.1016/j.tranpol.2022.02.005'
+citation: 'Wang, X. (2022). &quot;Impact of health on driving for America's older adults: A nationwide, longitudinal study.&quot; <i>Transport Policy</i>. 120, 69-79.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
+Abstract
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
