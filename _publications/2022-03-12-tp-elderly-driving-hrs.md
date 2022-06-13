@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "TP paper"
 collection: publications
-permalink: /publication/2022-03-12-tp-elderly-driving-hrs
+permalink: /publication/2022-03-12-tp-elderly-driving-hrs.md
 excerpt: 'HRS data shows that health conditions predicts older adults' mobility reducitions'
 date: 2022-03-12
 venue: 'Transport Policy'
