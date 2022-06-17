@@ -2,11 +2,12 @@
 title: "Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors"
 collection: publications
 permalink: /publication/2021-04-01-tra-roadpricing-caf
-excerpt: "Personal factors such as traffic delay and respiratory issues correlate with congestion relief policy support; the preference between road pricing and driving ban is largely due to city-level factors such as air quality and income inequality."
+excerpt: "Lower delay, car use and respiratory issues correlate with congestion relief policy support, and the preference between road pricing vs. driving bans is largely due to city-level factors such as air quality and income inequality."
 date: 2021-04-01
 venue: "Transportation Research Part A: Policy and Practice"
-paperurl: 'https://doi.org/10.1016/j.tra.2020.12.004'
+paperurl: https://doi.org/10.1016/j.tra.2020.12.004
 citation: "Wang, X., Rodríguez, D. A., & Mahendra, A. (2021). Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors. <i>Transportation Research Part A: Policy and Practice, 146</i>, 91-108."
+
 ---
 
 **Abstract:**
