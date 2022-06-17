@@ -21,4 +21,4 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 
 他曾在伯克利加州大学城市与区域发展研究所从事博士后研究工作。他在南加州大学获得城市规划与城市发展哲学博士学位，在明尼苏达大学获得城市与区域规划硕士学位，在北京大学获得城市规划与经济学学士学位。
 
-### Selected Publications
+## Selected Publications
