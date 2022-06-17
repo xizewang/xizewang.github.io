@@ -2,7 +2,7 @@
 title: "Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors"
 collection: publications
 permalink: /publication/2021-04-01-tra-roadpricing-caf
-excerpt: "Traffic delay and children's respiratory diseases correlate with public support for road pricing or driving ban; the specific preference between road pricing and driving ban is mainly due to city-level factors such as air quality and income inequality."
+excerpt: "Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies."
 date: 2021-04-01
 venue: "Transportation Research Part A: Policy and Practice"
 paperurl: 'https://doi.org/10.1016/j.tra.2020.12.004'
