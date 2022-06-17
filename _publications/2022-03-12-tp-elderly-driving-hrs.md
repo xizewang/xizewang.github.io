@@ -6,7 +6,7 @@ excerpt: "HRS data shows that certain health conditions predict older adults' dr
 date: 2022-03-12
 venue: "Transport Policy"
 paperurl: 'https://doi.org/10.1016/j.tranpol.2022.02.005'
-citation: "Wang, X. (2022). &quot;Impact of health on driving for America's older adults: A nationwide, longitudinal study.&quot; <i>Transport policy, 120,</i> 69-79."
+citation: "Wang, X. (2022). Impact of health on driving for America's older adults: A nationwide, longitudinal study. <i>Transport policy, 120,</i> 69-79."
 ---
 
 **Abstract:**
