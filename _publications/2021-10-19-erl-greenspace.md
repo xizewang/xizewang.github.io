@@ -5,7 +5,7 @@ permalink: /publication/2021-10-19-erl-greenspace
 excerpt: "Low-SES neighborhoods in high-SES Latin American cities have experienced the biggest &quot;greenspace deprivations&quot; in 2000-2015."
 date: 2021-10-19
 venue: "Environmental Research Letters"
-paperurl: https://doi.org/10.1088/1748-9326/ac2a63
+paperurl: 'https://doi.org/10.1088/1748-9326/ac2a63'
 citation: "Ju, Y., Moran, M., Wang, X., Avila-Palencia, I., Cortinez-O’Ryan, A., ... & Dronova, I. (2021). &quot;Latin American cities with higher socioeconomic status are greening from a lower baseline: evidence from the SALURBAL project. <i>Environmental Research Letters, 16(10), 104052."
 ---
 
