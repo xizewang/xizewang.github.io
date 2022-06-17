@@ -7,7 +7,6 @@ date: 2021-04-01
 venue: "Transportation Research Part A: Policy and Practice"
 paperurl: https://doi.org/10.1016/j.tra.2020.12.004
 citation: "Wang, X., Rodríguez, D. A., & Mahendra, A. (2021). Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors. <i>Transportation Research Part A: Policy and Practice, 146</i>, 91-108."
-
 ---
 
 **Abstract:**
