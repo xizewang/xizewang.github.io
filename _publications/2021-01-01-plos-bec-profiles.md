@@ -2,7 +2,7 @@
 title: "Built environment profiles for Latin American urban settings: The SALURBAL study"
 collection: publications
 permalink: /publication/2021-01-01-plos-bec-profiles
-excerpt: "We measured urban form and street design patterns across 370 Latin American cities and develop typologies"
+excerpt: "We measure urban form and street design patterns for 370 Latin American cities and develop typologies"
 date: 2021-01-01
 venue: "PloS One"
 paperurl: https://doi.org/10.1371/journal.pone.0257528
