@@ -2,7 +2,7 @@
 title: "Physical Disorders and Poor Self-Rated Health in Adults Living in Four Latin American Cities: A Multilevel Approach"
 collection: publications
 permalink: /publication/2020-12-02-ijerph-srh
-excerpt: "We measured urban form and street design patterns across 370 Latin American cities and develop typologies"
+excerpt: "People living in high built-environment disorders (e.g. abandoned buildings, poor lit streets) are more liekely to have poor physical health."
 date: 2020-12-02
 venue: "International Journal of Environmental Research and Public Health"
 paperurl: https://doi.org/10.3390/ijerph17238956
