@@ -2,7 +2,7 @@
 title: "Physical disorders and poor self-rated health in adults living in four Latin American cities: a multilevel approach"
 collection: publications
 permalink: /publication/2020-12-02-ijerph-srh
-excerpt: "People living with higher built environment disorders (e.g. abandoned buildings, poor lit streets) are more liekely to have poor physical health."
+excerpt: "People living with higher built environment disorders (e.g. abandoned buildings, poor lit streets) have worse physical health."
 date: 2020-12-02
 venue: "International Journal of Environmental Research and Public Health"
 paperurl: https://doi.org/10.3390/ijerph17238956
