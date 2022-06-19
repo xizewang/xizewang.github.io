@@ -23,6 +23,12 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 
 ## Selected Publications
 
+**Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
+(with Tao Liu)\
+<i>Urban Studies, forthcoming,</i> 2022.\
+Summary: Living in a crowded place – measured by both sqm per person and persons per bedroom – is significantly associated with a higher risk of depression. Residential crowding serves as a direct stressor rather than triggering higher life stress. 
+
+
 **Commute patterns and depression: Evidence from eleven Latin American cities**\
 (with Daniel A. Rodriguez, Olga L. Sarmiento and Oscar Guaje)\
 <i>Journal of Transport & Health, Vol. 14,</i> 100607, 2019.\
