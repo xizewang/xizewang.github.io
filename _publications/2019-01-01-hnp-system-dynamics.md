@@ -1,5 +1,5 @@
 ---
-title: "Urban spatial structure and the potential for vehicle miles traveled reduction: The effects of accessibility to jobs within and beyond employment sub-centers"
+title: "Using community-based system dynamics modeling to understand the complex systems that influence health in cities: The SALURBAL study"
 collection: publications
 permalink: /publication/2019-01-01-hnp-system-dynamics
 excerpt: "We work with a diverse group of stakeholders to identify 98 variables, 10 feedback loops and 52 policy actions for food behaviors, transport and health."
