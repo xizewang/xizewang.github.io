@@ -27,4 +27,4 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 (with Daniel A. Rodriguez, Olga L. Sarmiento and Oscar Guaje)\
 <i>Journal of Transport & Health, Vol. 14,</i> 100607, 2019.\
 [Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \|  [Link to Journal (Open Access)](https://doi.org/10.1016/j.jth.2019.100607)\
-<i>Summary:</i> Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
+Summary: Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
