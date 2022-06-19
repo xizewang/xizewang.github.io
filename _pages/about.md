@@ -40,3 +40,10 @@ Summary: Using a harmonized dataset from multiple sources, we describe variabili
 <i>Journal of Transport & Health, Vol. 14</i>, 100607, 2019.\
 [Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \|  [Link to Journal (Open Access)](https://doi.org/10.1016/j.jth.2019.100607)\
 Summary: Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
+
+**Has the relationship between urban and suburban automobile travel changed across generations? Comparing Millennials and Generation Xers in the United States**\
+<i>Transportation Research Part A: Policy and Practice, Vol. 129</i>, pp. 463-470, 2019.\
+[Read more](https://xizewang.github.io/publication/2019-08-20-tra-nhts) \|  [Link to Journal](https://doi.org/10.1016/j.tra.2019.08.012)\
+Summary: By tracking Millennials’ and Gen Xers’ driving behavior over three decades, I find that Millennials’ lower automobility cannot be fully attributed to urban living, recession or delayed life-cycles. Demographic theory suggests that such generational differences may remain in later life stages.
+
+
