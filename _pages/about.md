@@ -46,4 +46,7 @@ Summary: Longer time spent in one’s journey to work - especially time in traff
 [Read more](https://xizewang.github.io/publication/2019-08-20-tra-nhts) \|  [Link to Journal](https://doi.org/10.1016/j.tra.2019.08.012)\
 Summary: By tracking Millennials’ and Gen Xers’ driving behavior over three decades, I find that Millennials’ lower automobility cannot be fully attributed to urban living, recession or delayed life-cycles. Demographic theory suggests that such generational differences may remain in later life stages.
 
-
+**Modeling bike share station activity: Effects of nearby businesses and jobs on trips to and from stations**\
+<i>Journal of Urban Planning and Development, Vol. 142</i>(1), 04015001, 2016.\
+[Read more](https://xizewang.github.io/publication/2016-03-01-jupd-bikeshare) \|  [Link to Journal](https://doi.org/10.1061/(ASCE)UP.1943-5444.0000273)\
+Summary: We examine the socio-demographic, built environment, infrastructure and economic factors that associate with the usage of the world’s first shared mobility system.
