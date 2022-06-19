@@ -25,12 +25,18 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 
 **Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
 (with Tao Liu)\
-<i>Urban Studies, forthcoming,</i> 2022.\
+<i>Urban Studies, forthcoming</i>, 2022.\
 Summary: Living in a crowded place – measured by both sqm per person and persons per bedroom – is significantly associated with a higher risk of depression. Residential crowding serves as a direct stressor rather than triggering higher life stress. 
 
 
+**Life expectancy and mortality in 363 cities of Latin America**\
+(as a part of the SALURBAL Group)\
+<i>Nature Medicine, Vol. 27</i>(3), pp. 463-470, 2021.\
+[Read more](https://xizewang.github.io/publication/2021-01-25-natmed-lac-mortality) \|  [Link to Journal (Open Access)](https://www.nature.com/articles/s41591-020-01214-4)\
+Summary: Using a harmonized dataset from multiple sources, we describe variability and predictors of life expectancy and proportionate mortality in 363 cities across nine Latin American countries.
+
 **Commute patterns and depression: Evidence from eleven Latin American cities**\
 (with Daniel A. Rodriguez, Olga L. Sarmiento and Oscar Guaje)\
-<i>Journal of Transport & Health, Vol. 14,</i> 100607, 2019.\
+<i>Journal of Transport & Health, Vol. 14</i>, 100607, 2019.\
 [Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \|  [Link to Journal (Open Access)](https://doi.org/10.1016/j.jth.2019.100607)\
 Summary: Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
