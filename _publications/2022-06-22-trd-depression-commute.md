@@ -2,7 +2,7 @@
 title: "The roads one must walk down: Commute and depression for Beijing’s residents"
 collection: publications
 permalink: /publication/2022-06-22-trd-depression-commute
-excerpt: "Longer journey to work is associated with higher probability for depression: especially for motorcycle/moped takers, older people and blue-collar workers"
+excerpt: "Those taking longer time to work have higher risks for depression - especially for motorcycle/moped takers, older people and blue-collar workers."
 date: 2022-06-22
 venue: "Transportation Research Part D: Transport and Environment"
 paperurl: https://doi.org/10.1016/j.trd.2022.103316
