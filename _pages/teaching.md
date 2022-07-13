@@ -7,7 +7,7 @@ author_profile: true
 
 ### National University of Singapore
 <i>Academic Teaching</i>
-* Data, Analytics and PropTech, graduate level (Fall 2022, new course in preparation)
+* Data, Analytics and PropTech, graduate level (New course in preparation)
 * GIS for Real Estate, undergraduate level (Spring 2020, Spring 2021, Spring 2022)
 * Urban Planning in Singapore, undergraduate level (Fall 2020, Fall 2021)
 * Advanced Urban Planning, undergraduate level (Fall 2019)
