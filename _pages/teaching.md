@@ -7,7 +7,7 @@ author_profile: true
 
 ### National University of Singapore
 <i>Academic Teaching</i>
-* Data, Analytics and PropTech, graduate level (New course in preparation)
+* Data Analytics in Real Estate, graduate level (New course in preparation)
 * GIS for Real Estate, undergraduate level (Spring 2020, Spring 2021, Spring 2022)
 * Urban Planning in Singapore, undergraduate level (Fall 2020, Fall 2021)
 * Advanced Urban Planning, undergraduate level (Fall 2019)
@@ -17,6 +17,15 @@ author_profile: true
   * Topic: Urban Planning in Singapore (Fall 2021; Summer 2021)
 * Urban Redevelopment Authority UP201 Executive Training Program
   * Topic: Cost-Benefit Analysis (Summer 2020)
+
+<i>Guest Lectures</i>
+
+* University of Pennsylvania Wharton School, East and Southeast Asia (MBA study abroad program)
+  * Topic: Governing Singapore’s Land Development: An Institutional Perspective (Summer 2022)
+* NUS Lee Kuan Yew School of Public Policy, Quantitative Methods for Public Policy Research (Ph.D. core module)
+  * Topic: Panel Data Methods (Spring 2022)
+* NUS Lee Kuan Yew School of Public Policy, Urban Development and Policy (MPAM program)
+  * Topic: Urban Planning in Singapore (Spring 2021)
 
 ### University of California, Berkeley
 * Ph.D. Colloquium, graduate level (guest lecturer, Spring 2018, Fall 2019)
