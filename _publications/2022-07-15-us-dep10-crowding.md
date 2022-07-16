@@ -6,7 +6,7 @@ excerpt: "Living in a crowded place – measured by both sqm per person and pers
 date: 2022-07-15
 venue: "Urban Studies"
 paperurl: https://doi.org/10.1177/00420980221101707
-citation: "Wang, X., & Liu, T. (2022). Home-made blues: Residential crowding and mental health in Beijing, China. <i>Urban Studies</i>, In press."
+citation: "Wang, X., & Liu, T. (2022). Home-made blues: Residential crowding and mental health in Beijing, China. <i>Urban Studies, In press.</i>"
 ---
 
 **Abstract:**
