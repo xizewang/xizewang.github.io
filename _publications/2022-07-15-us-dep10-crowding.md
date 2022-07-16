@@ -1,15 +1,15 @@
 ---
-title: "Estimating use of non-motorized infrastructure: Models of bicycle and pedestrian traffic in Minneapolis, MN"
+title: "Home-made blues: Residential crowding and mental health in Beijing, China"
 collection: publications
-permalink: /publication/2012-09-15-lup-non-motorized-traffic
-excerpt: "The variation of bicycle and pedestrian traffic in Minneapolis can be explained by weather, neighborhood SES, land use mix and infrastructure factors."
-date: 2012-09-15
-venue: "Landscape and Urban Planning"
-paperurl: https://doi.org/10.1016/j.landurbplan.2012.06.005
-citation: "Hankey, S., Lindsey, G., Wang, X., Borah, J., Hoff, K., Utecht, B., & Xu, Z. (2012). Estimating use of non-motorized infrastructure: Models of bicycle and pedestrian traffic in Minneapolis, MN. <i>Landscape and Urban Planning, 107</i>(3), 307-316."
+permalink: /publication/2022-07-15-us-dep10-crowding
+excerpt: "Living in a crowded place – measured by both sqm per person and persons per bedroom – is significantly associated with a higher risk of depression. Residential crowding is associated with depression by serving as a direct stressor rather than triggering higher life stress."
+date: 2022-07-15
+venue: "Urban Studies"
+paperurl: https://doi.org/10.1177/00420980221101707
+citation: "Wang, X., & Liu, T. (2022). Home-made blues: Residential crowding and mental health in Beijing, China. <i>Urban Studies</i>, In press"
 ---
 
 **Abstract:**
-Traffic counts and models for describing use of non-motorized facilities such as sidewalks, trails, and bike lanes are generally unavailable. Because officials lack the data and tools needed to estimate use of facilities, their ability to make evidence-based choices among investment alternatives is limited. This paper (1) summarizes counts of cyclists and pedestrians between 2007 and 2010 at 259 locations in the city of Minneapolis, MN, (2) develops scaling factors for estimating 12-h (6:30 am–6:30 pm) “daily” counts from hourly counts, (3) presents models for estimating non-motorized traffic using ordinary least squares and negative binomial regressions, (4) validates each model using bicycle and pedestrian counts for 85 locations, and (5) estimates non-motorized traffic for every street in Minneapolis, MN. Across all locations, mean pedestrian traffic (51/h) exceeded mean bicycle traffic (38/h) by 35%. One-hour counts were highly correlated with 12-h “daily” counts suggesting that planners may focus on short time scales without compromising data quality. Significant correlates of non-motorized traffic vary by mode and model and include weather (temperature, precipitation), neighborhood socio-demographics (household income, education), built environment characteristics (land use mix), and street (or bicycle facility) type. When controlling for these factors, bicycle traffic increased over time and was higher on streets with bicycle facilities than without (and highest on off-street facilities). Our models can be used by policy-makers to estimate non-motorized traffic for streets where counts are unavailable or to estimate changes in non-motorized traffic associated with other changes in the built environment (e.g., adding bicycle lanes or changing land use).
+Although residential crowding has many well-being implications, its connection to mental health is yet to be widely examined. Using survey data from 1613 residents in Beijing, China, we find that living in a crowded place – measured by both square metres per person and persons per bedroom – is significantly associated with a higher risk of depression. We test for the mechanisms of such associations and find that the residential crowding–depression link arises through increased living space-specific stress rather than increased life stress. We also identify the following subgroups that have relatively stronger residential crowding–depression associations: females, those living with children, those not living with parents, and those living in non-market housing units. Our findings show that inequality in living space among urban residents not only is an important social justice issue but also has health implications.
 
-**Download:** [Link](https://doi.org/10.1016/j.landurbplan.2012.06.005) \| [Researchgate](https://www.researchgate.net/publication/257026755_Estimating_use_of_non-motorized_infrastructure_Models_of_bicycle_and_pedestrian_traffic_in_Minneapolis_MN)
+**Download:** [Link](https://doi.org/10.1177/00420980221101707) \| [Researchgate](https://www.researchgate.net/publication/257026755_Estimating_use_of_non-motorized_infrastructure_Models_of_bicycle_and_pedestrian_traffic_in_Minneapolis_MN)
