@@ -25,7 +25,7 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 
 **Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
 (with Tao Liu)\
-<i>Urban Studies, in press</i>, 2022.\
+<i>Urban Studies, Vol. 60</i>(3), 2023.\
 [Read more](https://xizewang.github.io/publication/2022-07-15-us-dep10-crowding) \| [PDF](https://xizewang.github.io/files/2022-07-15-us-dep10-crowding.pdf) \| [Journal (Open Access)](https://doi.org/10.1177/00420980221101707)\
 <i> Summary:</i> Living in a crowded place – measured by both sqm per person and persons per bedroom – is significantly associated with a higher risk of depression. Residential crowding is associated with depression by serving as a direct stressor rather than triggering higher life stress. 
 
