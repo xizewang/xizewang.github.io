@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xize WANG is an assistant professor at the [Department of Real Estate](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672) of National University of Singapore (NUS). He is also a faculty affiliate of [NUS Institute of Real Estate and Urban Studies (IREUS)](https://ireus.nus.edu.sg/) and [NUS Centre for Family and Population Research (CFPR)](https://fass.nus.edu.sg/cfpr/). 
+Dr. Xize WANG is an assistant professor at the [Department of Real Estate](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672) of National University of Singapore (NUS). He is also a faculty affiliate of [NUS Institute of Real Estate and Urban Studies (IREUS)](https://ireus.nus.edu.sg/), [NUS Cities](https://cde.nus.edu.sg/nuscities/), and [NUS Centre for Family and Population Research (CFPR)](https://fass.nus.edu.sg/cfpr/). 
 
 He works interdisciplinary in the fields of public policy, urban planning, public health and transportation. His current work focus on (1) the impact of urban built environment on people’s mental health and well-being, as well as (2) how individuals and policy makers can best mitigate the negative health impacts of the incoming global challenges (e.g. climate change and aging). 
 
 Prior to NUS, he has been a postdoctoral scholar at University of California, Berkeley. He received a Ph.D. in Urban Planning & Development at University of Southern California, a Master in Urban & Regional Planning at University of Minnesota, and a B.E. in Urban Planning and a B.A. in Economics in 2010 at Peking University, where he was a recipient of China's National Scholarship.
 
 ### 个人简介
-王锡泽博士是[新加坡国立大学房地产系](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672)的助理教授，并同时担任新加坡国立大学[城市与房地产研究中心(IREUS)](https://ireus.nus.edu.sg/)和[家庭与人口研究中心(CFPR)](https://fass.nus.edu.sg/cfpr/)的研究员。
+王锡泽博士是[新加坡国立大学房地产系](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672)的助理教授，并同时担任新加坡国立大学[城市与房地产研究中心(IREUS)](https://ireus.nus.edu.sg/)、[城市科学研究中心(NUS Cities)](https://cde.nus.edu.sg/nuscities/)和[家庭与人口研究中心(CFPR)](https://fass.nus.edu.sg/cfpr/)的研究员。
 
 他的研究方向为公共政策、城市规划、公共健康和交通运输。他近期的研究兴趣为：(1)城市建成环境(广义的)对人的健康(尤其是心理健康)和主观幸福感的影响，(2)城市中的个体（个人）和群体(政府/企业)如何减缓气候变化、不平等和人口变迁等全球重大挑战对个体健康的影响。
 
