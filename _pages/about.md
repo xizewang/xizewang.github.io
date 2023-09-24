@@ -33,7 +33,7 @@ Prior to NUS, he has been a postdoctoral scholar at University of California, Be
 **The roads one must walk down: Commute and depression for Beijing’s residents**\
 (with Tao Liu)\
 <i>Transportation Research Part D: Transport and Environment, Vol. 109</i>, 103316, 2022.\
-[Read more](https://xizewang.github.io/publication/2022-06-22-trd-depression-commute.md) \| [PDF](https://xizewang.github.io/files/2022-06-22-trd-depression-commute.pdf) \| [Journal (Open Access)](https://doi.org/10.1016/j.trd.2022.103316)\
+[Read more](https://xizewang.github.io/publication/2022-06-22-trd-depression-commute) \| [PDF](https://xizewang.github.io/files/2022-06-22-trd-depression-commute.pdf) \| [Journal (Open Access)](https://doi.org/10.1016/j.trd.2022.103316)\
 <i> Summary:</i> Those taking longer time to work have higher risks for depression - especially for motorcycle/moped takers, older people and blue-collar workers. \
 <i> Media Coverage:</i> [Lianhe Zaobao ThinkChina](https://www.thinkchina.sg/longer-commute-beijingers-may-spell-higher-depression-risks) \| [Caixin Global](https://www.caixinglobal.com/2022-10-20/how-your-work-commute-can-affect-your-mental-health-101954036.html) 
 
