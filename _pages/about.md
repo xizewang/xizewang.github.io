@@ -23,7 +23,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 他目前担任期刊 [《Journal of Urban Health》](https://link.springer.com/journal/11524)和[《Transportation Research Part D》](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment)的编委。他曾在加州大学伯克利分校担任博士后研究员。他于南加州大学获得城市规划与发展博士学位，在明尼苏达大学取得城市与区域规划硕士学位，在北京大学获得城市规划和经济学学士学位并荣获国家奖学金。
 
 
-## Selected Publications
+## Selected Publications/代表性成果
 
 **Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
 (with Tao Liu)\
@@ -57,6 +57,6 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 **Commute patterns and depression: Evidence from eleven Latin American cities**\
 (with Daniel A. Rodriguez, Olga L. Sarmiento and Oscar Guaje)\
 <i>Journal of Transport and Health, Vol. 14</i>, 100607, 2019.\
-[Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \| [PDF)](https://xizewang.github.io/files/2019-09-05-jth-depression-caf.pdf) \| [Link to Journal](https://doi.org/10.1016/j.jth.2019.100607)\
+[Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \| [PDF](https://xizewang.github.io/files/2019-09-05-jth-depression-caf.pdf) \| [Link to Journal](https://doi.org/10.1016/j.jth.2019.100607)\
 <i> Summary:</i> Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
 <i> Policy Impacts: </i> [United Nations-CEPAL](https://repositorio.cepal.org/server/api/core/bitstreams/ee31031c-55dd-4bdb-9f10-582ae59ff57e/content) \| [Asian Development Bank](https://www.adb.org/sites/default/files/publication/670396/gms-2030-integration-upgrading-cities-connectivity.pdf) \| [Congress of the Phillipines](https://legacy.senate.gov.ph/lisdata/4294139053!.pdf)
