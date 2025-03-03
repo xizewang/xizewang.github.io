@@ -40,11 +40,11 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 <i> Media Coverage:</i> [Lianhe Zaobao ThinkChina](https://www.thinkchina.sg/longer-commute-beijingers-may-spell-higher-depression-risks) \| [Caixin Global](https://www.caixinglobal.com/2022-10-20/how-your-work-commute-can-affect-your-mental-health-101954036.html) 
 
 
-**Life expectancy and mortality in 363 cities of Latin America**\
-(as a part of the SALURBAL Group)\
-<i>Nature Medicine, Vol. 27</i>(3), pp. 463-470, 2021.\
+**Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors **\
+(with Daniel A. Rodriguez and Anjali Mahendra)\
+<i>Transportation Research Part A: Policy and Practice, Vol. 146</i>, pp. 91-108, 2021.\
 [Read more](https://xizewang.github.io/publication/2021-01-25-natmed-lac-mortality) \| [PDF](https://xizewang.github.io/files/2021-01-25-natmed-lac-mortality.pdf) \| [Journal (Open Access)](https://www.nature.com/articles/s41591-020-01214-4)\
-<i> Summary:</i> Using a harmonized dataset from multiple sources, we describe variability and predictors of life expectancy and proportionate mortality in 363 cities across nine Latin American countries.
+<i> Summary:</i> Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies.
 
 **Has the relationship between urban and suburban automobile travel changed across generations? Comparing Millennials and Generation Xers in the United States**\
 <i>Transportation Research Part A: Policy and Practice, Vol. 129</i>, pp. 107-122, 2019.\
