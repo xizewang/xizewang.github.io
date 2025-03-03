@@ -58,4 +58,4 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 <i>Journal of Transport and Health, Vol. 14</i>, 100607, 2019.\
 [Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \| [PDF)](https://xizewang.github.io/files/2019-09-05-jth-depression-caf.pdf) \| [Link to Journal](https://doi.org/10.1016/j.jth.2019.100607)\
 <i> Summary:</i> Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
-<i> Policy Impacts </i> [UN-CEPAL](https://repositorio.cepal.org/server/api/core/bitstreams/ee31031c-55dd-4bdb-9f10-582ae59ff57e/content) \| [Inter-American Development Bank (IDB)](https://publications.iadb.org/en/social-determinants-health-health-centered-approach-multi-sectoral-action)
+<i> Policy Impacts </i> [United Nations-CEPAL](https://repositorio.cepal.org/server/api/core/bitstreams/ee31031c-55dd-4bdb-9f10-582ae59ff57e/content) \| [Inter-American Development Bank](https://publications.iadb.org/en/social-determinants-health-health-centered-approach-multi-sectoral-action)
