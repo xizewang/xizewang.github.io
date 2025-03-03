@@ -43,7 +43,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 **Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors**\
 (with Daniel A. Rodriguez and Anjali Mahendra)\
 <i>Transportation Research Part A: Policy and Practice, Vol. 146</i>, pp. 91-108, 2021.\
-[Read more](https://xizewang.github.io/publication/2021-01-25-natmed-lac-mortality) \| [PDF](https://xizewang.github.io/files/2021-01-25-natmed-lac-mortality.pdf) \| [Journal (Open Access)](https://www.nature.com/articles/s41591-020-01214-4)\
+[Read more](https://xizewang.github.io/publication/2021-04-01-tra-roadpricing-caf) \| [PDF](https://xizewang.github.io/files/2021-04-01-tra-roadpricing-caf.pdf) \| [Journal (Open Access)]([https://doi.org/10.1016/j.tra.2020.12.004)\
 <i> Summary:</i> Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies.
 
 **Has the relationship between urban and suburban automobile travel changed across generations? Comparing Millennials and Generation Xers in the United States**\
