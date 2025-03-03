@@ -44,7 +44,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 (with Daniel A. Rodriguez and Anjali Mahendra)\
 <i>Transportation Research Part A: Policy and Practice, Vol. 146</i>, pp. 91-108, 2021.\
 [Read more](https://xizewang.github.io/publication/2021-04-01-tra-roadpricing-caf) \| [PDF](https://xizewang.github.io/files/2021-04-01-tra-roadpricing-caf.pdf) \| [Journal (Open Access)](https://doi.org/10.1016/j.tra.2020.12.004)\
-<i> Summary:</i> Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies.
+<i> Summary:</i> Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies. \
 <i> Policy Impacts: </i> [World Bank](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/162761635935300052/discussion-paper) |\ [Inter-American Development Bank](https://publications.iadb.org/en/inclusive-cities-healthy-cities-all) \| [U.S. Department of Transportation](https://www.itskrs.its.dot.gov/2022-l01135)
 
 
