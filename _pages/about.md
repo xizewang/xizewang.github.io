@@ -46,13 +46,15 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 [Read more](https://xizewang.github.io/publication/2021-04-01-tra-roadpricing-caf) \| [PDF](https://xizewang.github.io/files/2021-04-01-tra-roadpricing-caf.pdf) \| [Journal (Open Access)](https://doi.org/10.1016/j.tra.2020.12.004)\
 <i> Summary:</i> Personal-level factors (e.g. traffic delay and respiratory diseases) correlate with the public support for road pricing or driving ban; while city-level factors (e.g. PM2.5 and income inequaliy) correlates with the relative preferences between these two policies.
 
+
 **Has the relationship between urban and suburban automobile travel changed across generations? Comparing Millennials and Generation Xers in the United States**\
 <i>Transportation Research Part A: Policy and Practice, Vol. 129</i>, pp. 107-122, 2019.\
 [Read more](https://xizewang.github.io/publication/2019-08-20-tra-nhts) \| [SocArxiv (Free)](https://osf.io/preprints/socarxiv/2y5vj) \| [Link to Journal](https://doi.org/10.1016/j.tra.2019.08.012)\
 <i> Summary:</i> By tracking Millennials’ and Gen Xers’ driving behavior over three decades, I find that Millennials’ lower automobility cannot be fully attributed to urban living, recession or delayed life-cycles. Demographic theory suggests that such generational differences may remain in later life stages.
 
-**Modeling bike share station activity: Effects of nearby businesses and jobs on trips to and from stations**\
-(with Greg Lindsey, Jessica, E. Schoner and Andrew Harrison)\
-<i>Journal of Urban Planning and Development, Vol. 142</i>(1), 04015001, 2016.\
-[Read more](https://xizewang.github.io/publication/2016-03-01-jupd-bikeshare) \| [SocArxiv (Free)](https://osf.io/preprints/socarxiv/stav4/) \| [Link to Journal](https://doi.org/10.1061/(ASCE)UP.1943-5444.0000273)\
-<i> Summary:</i> We examine the socio-demographic, built environment, infrastructure and economic factors that associate with the usage of the world’s first shared mobility system.
+
+**Commute patterns and depression: Evidence from eleven Latin American cities**\
+(with Daniel A. Rodriguez, Olga L. Sarmiento and Oscar Guaje)\
+<i>Journal of Transport and Health, Vol. 14</i>, 100607, 2019.\
+[Read more](https://xizewang.github.io/publication/2019-09-05-jth-depression-caf) \| [PDF)](https://xizewang.github.io/files/2019-09-05-jth-depression-caf.pdf) \| [Link to Journal](https://doi.org/10.1016/j.jth.2019.100607)\
+<i> Summary:</i> Longer time spent in one’s journey to work - especially time in traffic delays - is associated with higher probability of depression.
