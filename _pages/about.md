@@ -40,7 +40,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 <i> Media Coverage:</i> [Lianhe Zaobao ThinkChina](https://www.thinkchina.sg/longer-commute-beijingers-may-spell-higher-depression-risks) \| [Caixin Global](https://www.caixinglobal.com/2022-10-20/how-your-work-commute-can-affect-your-mental-health-101954036.html) 
 
 
-**Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors **\
+**Support for market-based and command-and-control congestion relief policies in Latin American cities: Effects of mobility, environmental health, and city-level factors**\
 (with Daniel A. Rodriguez and Anjali Mahendra)\
 <i>Transportation Research Part A: Policy and Practice, Vol. 146</i>, pp. 91-108, 2021.\
 [Read more](https://xizewang.github.io/publication/2021-01-25-natmed-lac-mortality) \| [PDF](https://xizewang.github.io/files/2021-01-25-natmed-lac-mortality.pdf) \| [Journal (Open Access)](https://www.nature.com/articles/s41591-020-01214-4)\
