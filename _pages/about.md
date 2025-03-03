@@ -18,9 +18,10 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 ### 个人简介
 王锡泽博士是[新加坡国立大学房地产系](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672)的助理教授，并同时担任新加坡国立大学[城市与房地产研究中心(IREUS)](https://ireus.nus.edu.sg/)和[家庭与人口研究中心(CFPR)](https://fass.nus.edu.sg/cfpr/)的研究员。
 
-他的研究方向为公共政策、城市规划、公共健康和交通运输。他近期的研究兴趣为：(1)城市建成环境(广义的)对人的健康(尤其是心理健康)和主观幸福感的影响，(2)城市中的个体（个人）和群体(政府/企业)如何减缓气候变化、不平等和人口变迁等全球重大挑战对个体健康的影响。
+他的研究致力于探索循证、创新的政策工具，以推动城市向更健康、更可持续的方向发展，重点关注两大领域：（1）城市环境与健康；（2）可持续交通。其研究成果发表于《Urban Studies》《Transport Research Part A》和《Transport Research Part D》等权威期刊，不仅构建了家庭尺度城市环境与心理健康之间的理论框架与实证关联，还深入剖析了人口结构特征与城市健康要素对可持续交通政策制定的影响机制。
 
-他曾在伯克利加州大学城市与区域发展研究所从事博士后研究工作。他在南加州大学获得城市规划与城市发展哲学博士学位，在明尼苏达大学获得城市与区域规划硕士学位，在北京大学获得城市规划与经济学学士学位。
+他目前担任 [《Journal of Urban Health》](https://link.springer.com/journal/11524)和[Transportation Research Part D](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment)的编委。他曾在加州大学伯克利分校担任博士后研究员。他于南加州大学获得城市规划与发展博士学位，在明尼苏达大学取得城市与区域规划硕士学位，在北京大学获得城市规划和经济学学士学位并荣获国家奖学金。
+
 
 ## Selected Publications
 
