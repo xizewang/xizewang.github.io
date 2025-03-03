@@ -6,7 +6,7 @@ excerpt: "We harmonized 40 health surveys on urban health across 11 Latin Americ
 date: 2025-01-06
 venue: "International Journal of Epidemiology"
 paperurl: https://doi.org/10.1093/ije/dyae171
-citation: “Moore, K. et al. (2025). Harmonized health survey data for 240 cities across 11 countries in Latin America: the SALURBAL project. <i>International Journal of Epidemiology, 54</i> (1),dyae171."
+citation: "Moore, K. et al. (2025). Harmonized health survey data for 240 cities across 11 countries in Latin America: the SALURBAL project. <i>International Journal of Epidemiology, 54</i> (1),dyae171."
 
 ---
 
