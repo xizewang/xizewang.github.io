@@ -25,6 +25,13 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 
 ## Selected Publications/代表性成果
 
+**100-m resolution Age-Stratified Population Estimation from the 2020 China Census by Township (ASPECT)**\
+(with Yang Ju, Ying Liang, Jinyu Kong, Xuelu Wang, Shicheng Wen & Huiyan Shang)\
+<i>Scientific Data, Vol. 12</i>, 1058, 2025.\
+[Read more](https://xizewang.github.io/publication/2025-06-21-sd-chnpop20) \| [PDF](https://xizewang.github.io/files/2025-06-21-sd-chnpop20.pdf)) \| [Journal (Open Access)](https://doi.org/10.1038/s41597-025-05401-1)\
+<i> Summary:</i> We developed an age-stratified gridded population dataset at 100 m resolution based on China’s 2020 Census, offering higher spatial accuracy and finer age-specific detail than widely used datasets such as WorldPop.
+
+
 **Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
 (with Tao Liu)\
 <i>Urban Studies, Vol. 60</i>(3), pp. 461-482, 2023.\
