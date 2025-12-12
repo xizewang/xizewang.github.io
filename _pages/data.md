@@ -21,4 +21,4 @@ Gridded population datasets are instrumental for modeling the interactions betwe
 
 ### Citation
 If you found this dataset useful and have used it in your research, please cite it as follows:
-* Ju, Y., Liang, Y., Kong, J., Wang, X., Wen, S., Shang, H., & Wang, X. (2025). 100-m resolution Age-Stratified Population Estimation from the 2020 China Census by Township (ASPECT). Scientific Data, 12(1), 1058. [https://doi.org/10.1038/s41597-025-05401-1](https://doi.org/10.1038/s41597-025-05401-1)
+* Ju, Y., Liang, Y., Kong, J., Wang, X., Wen, S., Shang, H., & Wang, X. (2025). 100-m resolution Age-Stratified Population Estimation from the 2020 China Census by Township (ASPECT). <i>Scientific Data, 12</i>(1), 1058. [https://doi.org/10.1038/s41597-025-05401-1](https://doi.org/10.1038/s41597-025-05401-1)
