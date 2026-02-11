@@ -30,6 +30,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 <i>Scientific Data, Vol. 12</i>, 1058, 2025.\
 [Read more](https://xizewang.github.io/publication/2025-06-21-sd-chnpop20) \| [PDF](https://xizewang.github.io/files/2025-06-21-sd-chnpop20.pdf) \| [Journal (Open Access)](https://doi.org/10.1038/s41597-025-05401-1)\
 <i> Summary:</i> We developed an age-stratified gridded population dataset at 100 m resolution based on China’s 2020 Census, offering higher spatial accuracy and finer age-specific detail than widely used datasets such as WorldPop.
+<i> Policy Impacts: </i> [China National Earth System Science Data Center 国家地球系统科学数据中心](https://geodata.nnu.edu.cn/data/datadetails.html?dataguid=206262925962190)
 
 
 **Home-Made Blues: Residential Crowding and Mental Health in Beijing, China**\
@@ -37,6 +38,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 <i>Urban Studies, Vol. 60</i>(3), pp. 461-482, 2023.\
 [Read more](https://xizewang.github.io/publication/2023-02-01-us-dep10-crowding) \| [PDF](https://xizewang.github.io/files/2023-02-01-us-dep10-crowding.pdf) \| [Journal (Open Access)](https://doi.org/10.1177/00420980221101707)\
 <i> Summary:</i> Living in a crowded place – measured by both sqm per person and persons per bedroom – is significantly associated with a higher risk of depression. Residential crowding is associated with depression by serving as a direct stressor rather than triggering higher life stress. 
+<i> Media Coverage:</i> [The Paper 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21076725) 
 
 
 **The roads one must walk down: Commute and depression for Beijing’s residents**\
