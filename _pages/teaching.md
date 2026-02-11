@@ -7,19 +7,29 @@ author_profile: true
 
 ### National University of Singapore
 <i>Academic Teaching</i>
-* Data Analytics in Real Estate, graduate level (New course in preparation)
+* Data and Analytics in Real Estate, graduate level (Fall 2025)
+* Urban Planning, undergraduate level (Spring 2026)
+* Urban and Sustainability Policies, undergraduate level (Spring 2026)
 * GIS for Real Estate, undergraduate level (Spring 2020, Spring 2021, Spring 2022)
 * Urban Planning in Singapore, undergraduate level (Fall 2020, Fall 2021)
 * Advanced Urban Planning, undergraduate level (Fall 2019)
 
 <i>Executive Teaching</i>
+
+* Urban Redevelopment Authority, UP101 Executive Training Program
+  * Topic: Comparative Urban Planning (Spring 2025, Spring 2026)
+* UEM Sunrise Berhad, Executive Training Program on Commercial Real Estate, topic: Proptech and Big Data in Real Estate (Summer 2025)
 * Singapore Land Authority Executive Training Program on Real Estate Foundations
-  * Topic: Urban Planning in Singapore (Fall 2021; Summer 2021)
+  * Topic: Urban Planning in Singapore (Fall 2021, Summer 2021)
+  * Topic: GIS for Real Estate (Fall 2022, Fall 2023, Fall 2024)
 * Urban Redevelopment Authority UP201 Executive Training Program
   * Topic: Cost-Benefit Analysis (Summer 2020)
 
 <i>Guest Lectures</i>
-
+* Sungkyunkwan University, Department of Public Administration, GIS Analysis for Urban Policy (graduate level), topic: Raster Data Analysis (Spring 2025)
+* Michigan State University, School of Planning, Design and Construction, Transportation Planning and Smart Land Use (undergraduate level), topic: Sustainable Transport Policies in Singapore (Spring 2025)
+* NUS Department of Architecture, Urban Planning History and Theory (graduate level), topic: History of Planning in Singapore. (Spring 2025)
+* Nanjing University, School of Government, Urban Disaster Management (graduate level), topic: Sustainable Development in Singapore (Spring 2025)
 * University of Pennsylvania Wharton School, East and Southeast Asia (MBA study abroad program)
   * Topic: Governing Singapore’s Land Development: An Institutional Perspective (Summer 2022)
 * NUS Lee Kuan Yew School of Public Policy, Quantitative Methods for Public Policy Research (Ph.D. core module)
