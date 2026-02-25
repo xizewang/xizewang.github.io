@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Xize WANG is an assistant professor at the [Department of Real Estate](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672) of National University of Singapore (NUS). He is also a faculty affiliate of [NUS Institute of Real Estate and Urban Studies (IREUS)](https://ireus.nus.edu.sg/) and [NUS Centre for Family and Population Research (CFPR)](https://fass.nus.edu.sg/cfpr/). 
 
-His research interests lie in identifying evidence-based, innovative policy tools to make cities healthier and more sustainable, with a particular focus on: (1) urban environment and health, and (2) sustainable mobility. His research, which appears in leading journals such as <i>Urban Studies</i>, <i>Transport Research Part A</i>, <i>Transport Research Part D</i> and <i>Scientific Data</i>, establishes theoretical and empirical connections between the household-scale urban environment and mental health, as well as examines the effects on demographic and urban health factors in shaping sustainable transport policy.
+His research interests lie in identifying evidence-based, innovative policy tools to make cities healthier and more sustainable, with a particular focus on: (1) urban environment and health, and (2) sustainable mobility. His research, which appears in leading journals such as <i>Urban Studies</i>, <i>Transport Research Part A</i>, <i>Transport Research Part D</i>, <i>Journal of Planning Education and Research</i>, and <i>Scientific Data</i>, establishes theoretical and empirical connections between the household-scale urban environment and mental health, as well as examines the effects on demographic and urban health factors in shaping sustainable transport policy.
 
 He is currently an editorial board member of <i>[Journal of Urban Health](https://link.springer.com/journal/11524)</i> and <i>[Transportation Research Part D](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment)</i>. Prior to NUS, he has been a postdoctoral scholar at University of California, Berkeley. He received a Ph.D. in Urban Planning & Development at University of Southern California, a Master in Urban & Regional Planning at University of Minnesota, and a B.E. in Urban Planning and a B.A. in Economics at Peking University, where he was a recipient of China’s National Scholarship.
 
@@ -18,7 +18,7 @@ He is currently an editorial board member of <i>[Journal of Urban Health](https:
 ### 个人简介
 王锡泽博士是[新加坡国立大学房地产系](https://bizfaculty.nus.edu.sg/faculty-details/?profId=672)的助理教授，并同时担任新加坡国立大学[城市与房地产研究中心(IREUS)](https://ireus.nus.edu.sg/)和[家庭与人口研究中心(CFPR)](https://fass.nus.edu.sg/cfpr/)的研究员。
 
-他的研究致力于探索循证、创新的政策工具，以推动城市向更健康、更可持续的方向发展，重点关注两大领域：（1）城市环境与健康；（2）可持续交通。其研究成果发表于《Urban Studies》《Transport Research Part A》《Transport Research Part D》和《Scientific Data》等权威期刊，不仅构建了家庭尺度城市环境与心理健康之间的理论框架与实证关联，还深入剖析了人口结构特征与城市健康要素对可持续交通政策制定的影响机制。
+他的研究致力于探索循证、创新的政策工具，以推动城市向更健康、更可持续的方向发展，重点关注两大领域：（1）城市环境与健康；（2）可持续交通。其研究成果发表于《Urban Studies》《Transport Research Part A》《Transport Research Part D》《Journal of Planning Education and Research》和《Scientific Data》等权威期刊，不仅构建了家庭尺度城市环境与心理健康之间的理论框架与实证关联，还深入剖析了人口结构特征与城市健康要素对可持续交通政策制定的影响机制。
 
 他目前担任期刊 [《Journal of Urban Health》](https://link.springer.com/journal/11524)和[《Transportation Research Part D》](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment)的编委。他曾在加州大学伯克利分校担任博士后研究员。他于南加州大学获得城市规划与发展博士学位，在明尼苏达大学取得城市与区域规划硕士学位，在北京大学获得城市规划和经济学学士学位并荣获国家奖学金。
 
