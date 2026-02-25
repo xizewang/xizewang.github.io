@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-02-25-jper-crowd-green
 excerpt: "Indoor residential crowding primarily affects the mental health of Beijing's local residents, while outdoor green space primarily affects that of migrants."
 date: 2026-02-25
-venue: “Journal of Planning Education and Research"
+venue: Journal of Planning Education and Research
 paperurl: Journal link forthcoming
 citation: "Wang, XL., Liu, T., & Wang, X. (2026) Enclosed by Walls, Embraced by Trees: Effects of Indoor Residential Crowding and Outdoor Green Space on Mental Health. <I>Journal of Planning Education and Research </i>, forthcoming"
 
