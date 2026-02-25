@@ -13,4 +13,4 @@ citation: "Wang, XL., Liu, T., & Wang, X. (2026) Enclosed by Walls, Embraced by 
 **Abstract:**
 Despite growing interest in how the urban built environment influences mental health, few studies have examined them across indoor-outdoor domains and subgroups. Using survey data from Beijing, we find that both residential crowding (indoor) and neighborhood green space (outdoor) are linked to depression risk. Specifically, residential crowding mainly affects local residents, while green space mainly affects migrants, with these effects varying by gender and family structure. The findings highlight that built environment inequality leads to health disparities, and planning strategies promoting mental health should address both indoor and outdoor factors and be tailored to the needs of specific vulnerable groups.
 
-**Download:** Journal link forthcoming
+**Download:** (Journal link forthcoming)
