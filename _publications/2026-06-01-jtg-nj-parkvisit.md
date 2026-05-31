@@ -1,5 +1,5 @@
 ---
-title: "More neighborhood green space, fewer park visits? Evidence from mobile phone-based population movement data in a major Chinese city"
+title: "More Neighborhood Green Space, Fewer Park visits? Evidence from Mobile Phone-Based Population Movement Data in a Major Chinese City"
 collection: publications
 permalink: /publication/2026-06-01-jtg-nj-parkvisit
 excerpt: "Residents in green space-deprived neighborhoods visit parks more frequently and are more willing to overcome distance barriers."
