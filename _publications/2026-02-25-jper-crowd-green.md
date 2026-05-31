@@ -6,7 +6,7 @@ excerpt: "Indoor residential crowding primarily affects the mental health of Bei
 date: 2026-02-25
 venue: Journal of Planning Education and Research
 paperurl: https://doi.org/10.1177/0739456X261432155
-citation: "Wang, XL., Liu, T., & Wang, X. (2026) Enclosed by Walls, Embraced by Trees: Effects of Indoor Residential Crowding and Outdoor Green Space on Mental Health. <i>Journal of Planning Education and Research </i>, https://doi.org/10.1177/0739456X261432155"
+citation: "Wang, XL., Liu, T., & Wang, X. (2026) Enclosed by Walls, Embraced by Trees: Effects of Indoor Residential Crowding and Outdoor Green Space on Mental Health. <i>Journal of Planning Education and Research </i>"
 
 ---
 
