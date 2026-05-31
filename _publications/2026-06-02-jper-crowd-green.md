@@ -1,9 +1,9 @@
 ---
 title: "Enclosed by Walls, Embraced by Trees: Effects of Indoor Residential Crowding and Outdoor Green Space on Mental Health"
 collection: publications
-permalink: /publication/2026-02-25-jper-crowd-green
+permalink: /publication/2026-06-02-jper-crowd-green
 excerpt: "Indoor residential crowding primarily affects the mental health of Beijing's local residents, while outdoor green space primarily affects that of migrants."
-date: 2026-02-25
+date: 2026-06-02
 venue: Journal of Planning Education and Research
 paperurl: https://doi.org/10.1177/0739456X261432155
 citation: "Wang, XL., Liu, T., & Wang, X. (2026) Enclosed by Walls, Embraced by Trees: Effects of Indoor Residential Crowding and Outdoor Green Space on Mental Health. <i>Journal of Planning Education and Research </i>"
