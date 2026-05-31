@@ -6,7 +6,7 @@ excerpt: "Residents in green space-deprived neighborhoods visit parks more frequ
 date: 2026-06-01
 venue: Journal of Transport Geography
 paperurl: https://doi.org/10.1016/j.jtrangeo.2026.104705
-citation: "Wen, S., Shou, T., Song, H., Wang, X., Yin, H., Cheng, Y., Sun, G. & Ju, Y.*, “More neighborhood green space, fewer park visits? Evidence from mobile phone-based population movement data in a major Chinese city,” <i>Journal of Transport Geography, 134</i>, 104705. doi: 10.1016/j.jtrangeo.2026.104705"
+citation: Wen, S., Shou, T., Song, H., Wang, X., Yin, H., Cheng, Y., Sun, G. & Ju, Y.*, More neighborhood green space, fewer park visits? Evidence from mobile phone-based population movement data in a major Chinese city, <i>Journal of Transport Geography, 134</i>, 104705. 
 
 ---
 
